@@ -1,0 +1,1 @@
+pyside6-uic design.ui > design.py
